@@ -1,0 +1,19 @@
+{
+  "name": "backbone.infiniscroll",
+  "version": "1.0.0",
+  "description": "Backbone.js module to add infinite scroll to a Backbone.View",
+  "main": "lib/infiniScroll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namely/infiniScroll.js.git"
+  },
+  "author": "Namely",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/namely/infiniScroll.js/issues"
+  },
+  "homepage": "https://github.com/namely/infiniScroll.js#readme"
+}
